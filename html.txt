@@ -1,0 +1,33 @@
+HTML Hyper text markup language
+code used to structured the webpage
+components used to design wbpages are known as HTML tags
+live server extension download kr lena
+create krenge index.HTML
+
+
+
+HTML tag is a container for some contents or other htmol tags like the paragraph tag etc vagarah
+ tags + content = html element
+
+ html tag is parent of head and body tag
+ most of html tags have opening and closing tags
+
+commnets likhne ke liye <!-- ______-->
+html is not case sensitive
+ctrl + \ is short key for comment
+
+chalo bnate hai ek portfolio page
+make a new folder for it 
+
+
+html attributes :- attributes are used to add more information to the tag
+for example in 
+<html lang="en">
+leng="en"  this is attribute which tells the language used is english
+
+heading tags are used to dispaly headings in html
+
+paragraph tag is used to 
+
+anchor tag is used to add links
+<a href ="link.com">link name </a>
